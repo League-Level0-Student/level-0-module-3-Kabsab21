@@ -6,6 +6,9 @@ import java.net.URI;
 public class CrazyCatLady {
 	public static void main(String[] args) {
 		
+		// Recipe has been completed by Sabrina and verified by Osvaldo
+		
+		
 		// 1. Ask the user how many cats they have
 		// 2. Convert their answer into an int
 		// 3. If they have 3 or more cats, tell them they are a crazy cat lady
