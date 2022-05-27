@@ -7,6 +7,8 @@ import java.awt.Color;
 public class RobotColorChooser {
 	public static void main(String[] args) {
 		
+		// Recipe has been completed by Sabrina and verified by Osvaldo
+		
 		//1. Create a new Robot
 	    //2. Make the robot draw a shape (this will take more than one line of code)		
 		//3. Set the pen width to 10
