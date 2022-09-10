@@ -15,7 +15,9 @@ void draw() {
 (see the image on the recipe, it's a diagonal line of circles)
 Use remainder to make the colors alternate between yellow and black
 */
-
+for(int i = 0; i > 20; i++){
+  eclipse(50,50,i,i);
+}
 
 
 /*
